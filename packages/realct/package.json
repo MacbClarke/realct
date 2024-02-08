@@ -1,0 +1,12 @@
+{
+  "name": "realct",
+  "version": "1.0.0",
+  "description": "realct public funcs",
+  "module": "index.ts",
+  "dependencies": {
+    "shared": "workspace:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
